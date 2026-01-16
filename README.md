@@ -1,3 +1,10 @@
+#  Task 1: Cybersecurity Basics & Attack Surface
+
+This repository documents my learning and research for **Task 1**, covering foundational cybersecurity concepts including the **CIA Triad**, **Types of Attackers**, **Attack Surfaces**, **OWASP Top 10**, and **Data Flow Mapping**.  
+It is designed to build a strong base for penetration testing, threat modeling, and interview preparation.
+
+---
+
 # Introduction to Cybersecurity
 Cybersecurity is more than firewalls, passwords, or antivirus software — it is the discipline of safeguarding digital systems, networks, and data against unauthorized access, damage, or disruption. At its core, cybersecurity is about trust: trust that your bank will protect your money, trust that your WhatsApp messages remain private, trust that your online purchases won’t expose your card details.
 ### Why Cybersecurity Matters
